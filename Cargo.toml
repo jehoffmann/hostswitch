@@ -2,7 +2,7 @@
 
 [workspace]
 resolver = "3"
-members = ["crates/hostswitch-core", "crates/hostswitch-backends"]
+members = ["crates/hostswitch-core", "crates/hostswitch-backends", "crates/hostswitchctl"]
 
 [workspace.package]
 version = "0.1.0"

@@ -1,0 +1,27 @@
+# SPDX-License-Identifier: Apache-2.0
+
+[package]
+name = "hostswitchctl"
+description = "Command-line front-end for hostswitch"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[dependencies]
+clap.workspace = true
+hostswitch-backends.workspace = true
+hostswitch-core.workspace = true
+tokio.workspace = true
+
+[dev-dependencies]
+cucumber = "0.21.1"
+hostswitch-core = { workspace = true, features = ["testing"] }
+
+[lints]
+workspace = true
+
+# Gherkin end-to-end tests (tests/features/*.feature, scenarios tagged @bdd).
+[[test]]
+name = "cli"
+harness = false
