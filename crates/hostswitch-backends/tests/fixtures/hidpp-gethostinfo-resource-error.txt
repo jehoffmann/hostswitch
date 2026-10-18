@@ -1,0 +1,7 @@
+Opening device, vid/pid:0x046D/0xC52B, usagePage/usage: FF00/2
+Device opened
+Writing output report of 20-bytes...wrote 20 bytes:
+ 11 01 09 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Reading up to 20-byte input report, 800 msec timeout...read 7 bytes:
+ 10 01 8F 09 0A 09 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Closing device

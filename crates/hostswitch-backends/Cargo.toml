@@ -1,0 +1,21 @@
+# SPDX-License-Identifier: Apache-2.0
+
+[package]
+name = "hostswitch-backends"
+description = "Hardware backends (m1ddc, hidapitester) and pure protocol parsers"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[dependencies]
+async-trait.workspace = true
+hostswitch-core.workspace = true
+tokio.workspace = true
+
+[dev-dependencies]
+hostswitch-core = { workspace = true, features = ["testing"] }
+tokio = { workspace = true, features = ["test-util"] }
+
+[lints]
+workspace = true

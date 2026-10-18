@@ -1,0 +1,60 @@
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0xFF00
+  usage:         0x0001
+  serial_number:  
+  interface:     2 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124657
+
+046D/B020: Logitech - MX Vertical
+  vendorId:      0x046D
+  productId:     0xB020
+  usagePage:     0x0001
+  usage:         0x0002
+  serial_number:  
+  interface:     -1 
+  bus_type:      Bluetooth (2) 
+  path: DevSrvsID:4296128281
+
+046D/B020: Logitech - MX Vertical
+  vendorId:      0x046D
+  productId:     0xB020
+  usagePage:     0xFF43
+  usage:         0x0202
+  serial_number:  
+  interface:     -1 
+  bus_type:      Bluetooth (2) 
+  path: DevSrvsID:4296128281
+
+046D/B359: Logitech - ERGO K860
+  vendorId:      0x046D
+  productId:     0xB359
+  usagePage:     0x0001
+  usage:         0x0006
+  serial_number:  
+  interface:     -1 
+  bus_type:      Bluetooth (2) 
+  path: DevSrvsID:4296132738
+
+046D/B359: Logitech - ERGO K860
+  vendorId:      0x046D
+  productId:     0xB359
+  usagePage:     0x0001
+  usage:         0x0002
+  serial_number:  
+  interface:     -1 
+  bus_type:      Bluetooth (2) 
+  path: DevSrvsID:4296132738
+
+046D/B359: Logitech - ERGO K860
+  vendorId:      0x046D
+  productId:     0xB359
+  usagePage:     0xFF43
+  usage:         0x0202
+  serial_number:  
+  interface:     -1 
+  bus_type:      Bluetooth (2) 
+  path: DevSrvsID:4296132738
+

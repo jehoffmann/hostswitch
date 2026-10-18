@@ -1,0 +1,1 @@
+The specified display does not exist. Use 'display list' to list displays and use it's number (1, 2...) or its UUID to specify display!

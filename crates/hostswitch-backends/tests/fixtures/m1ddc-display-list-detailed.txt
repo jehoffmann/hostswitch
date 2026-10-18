@@ -1,0 +1,12 @@
+[1] MSI MPG341CQR (1C95A13D-CA9A-4160-A4BD-E0DFA6B99D52)
+ - Product name:  MSI MPG341CQR
+ - Manufacturer:  MSI
+ - AN Serial:     <redacted>
+ - Vendor:        13929 (0x3669)
+ - Model:         15776 (0x3da0)
+ - Serial:        <redacted>
+ - Display ID:    2
+ - System UUID:   1C95A13D-CA9A-4160-A4BD-E0DFA6B99D52
+ - EDID UUID:     <redacted>
+ - IO Location:   IOService:/AppleARMPE/arm-io@10F00000/AppleT811xIO/dispext0@70000000/AppleCLCD2
+ - Adapter:       11779

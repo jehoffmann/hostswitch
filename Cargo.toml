@@ -2,7 +2,7 @@
 
 [workspace]
 resolver = "3"
-members = ["crates/hostswitch-core"]
+members = ["crates/hostswitch-core", "crates/hostswitch-backends"]
 
 [workspace.package]
 version = "0.1.0"
@@ -20,6 +20,7 @@ tokio = { version = "1", features = ["rt-multi-thread", "macros", "time", "proce
 uuid = { version = "1", features = ["v4", "serde"] }
 
 hostswitch-core = { path = "crates/hostswitch-core" }
+hostswitch-backends = { path = "crates/hostswitch-backends" }
 
 [workspace.lints.rust]
 unsafe_code = "forbid"

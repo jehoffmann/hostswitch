@@ -1,0 +1,40 @@
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+0000/0000: Apple - devmotion6
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+05AC/8104: Apple - gyro
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+05AC/8104: Apple - als-temp
+05AC/0000:  - Keyboard Backlight
+0000/0000: Apple - wakehint
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+0000/0000: Apple - cma
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+0000/0000: Apple - als
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+05AC/8104: Apple - accel
+004C/0269: Apple Inc. - Magic Mouse von Jens Hoffmann
+05AC/8104: Apple - las
+1462/3FA4: MS - MSI Gaming Controller
+0000/0000: Apple - Headset
+046D/C52B: Logitech - USB Receiver
+0000/0000: APPL - BTM
+046D/C52B: Logitech - USB Receiver
+046D/C52B: Logitech - USB Receiver
+046D/C52B: Logitech - USB Receiver
+046D/C52B: Logitech - USB Receiver
+046D/C52B: Logitech - USB Receiver
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+0000/0000: Apple - Apple Internal Keyboard / Trackpad
+046D/C52B: Logitech - USB Receiver
+046D/C52B: Logitech - USB Receiver
+046D/C52B: Logitech - USB Receiver
+0000/0000: Apple - Apple Internal Keyboard / Trackpad

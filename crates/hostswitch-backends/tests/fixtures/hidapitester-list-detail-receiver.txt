@@ -1,0 +1,90 @@
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0x0001
+  usage:         0x0006
+  serial_number:  
+  interface:     0 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124651
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0xFF00
+  usage:         0x0001
+  serial_number:  
+  interface:     2 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124657
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0xFF00
+  usage:         0x0002
+  serial_number:  
+  interface:     2 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124657
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0xFF00
+  usage:         0x0004
+  serial_number:  
+  interface:     2 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124657
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0x0001
+  usage:         0x0002
+  serial_number:  
+  interface:     1 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124655
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0x0001
+  usage:         0x0001
+  serial_number:  
+  interface:     1 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124655
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0x000C
+  usage:         0x0001
+  serial_number:  
+  interface:     1 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124655
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0x0001
+  usage:         0x0080
+  serial_number:  
+  interface:     1 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124655
+
+046D/C52B: Logitech - USB Receiver
+  vendorId:      0x046D
+  productId:     0xC52B
+  usagePage:     0xFFBC
+  usage:         0x0088
+  serial_number:  
+  interface:     1 
+  bus_type:      USB (1) 
+  path: DevSrvsID:4296124655
+
