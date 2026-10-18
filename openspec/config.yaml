@@ -1,0 +1,21 @@
+schema: spec-driven
+
+context: |
+  hostswitch moves a desk to another computer: it sets a monitor's input (DDC VCP 0x60) and the
+  Easy-Switch host of a keyboard and mouse (HID++ CHANGE_HOST). Rust workspace, built from source,
+  Apache-2.0. Only channel switching is supported; no other hardware command may ever be sent.
+  Code and CLI output never hard-code a manufacturer name. Requirement names keep their legacy
+  id (F-05, N-04, R-2a, SEC-n) so traceability survives.
+
+rules:
+  proposal:
+    - State which hardware commands, files, processes or network surfaces the change touches.
+    - Always state what is out of scope.
+  specs:
+    - Every requirement uses SHALL and has at least one scenario; add failure, hostile-input and safety scenarios, not only the happy path.
+    - Name the test level each scenario is verified at (unit, integration or system) in the change's tasks, not in the spec text.
+    - Describe observable behaviour only: no crate, type or function names.
+  design:
+    - Record decisions with options and consequences; list trust boundaries touched; justify every new dependency (license must be compatible with Apache-2.0). Decisions with lasting effect become ADRs in docs/adr/ that reference the requirements they satisfy.
+  tasks:
+    - Each task names the Gherkin scenario(s) that verify it and keeps the change reviewable in one step.
