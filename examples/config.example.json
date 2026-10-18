@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "hosts": [
+    { "id": "6f1c1b0e-0000-4000-8000-000000000001", "label": "Mac", "hostname": "my-mac.local" },
+    { "id": "6f1c1b0e-0000-4000-8000-000000000002", "label": "PC",  "hostname": "my-pc" }
+  ],
+  "profiles": [
+    {
+      "hostID": "6f1c1b0e-0000-4000-8000-000000000001",
+      "displays": [
+        { "displayID": "00000000-0000-0000-0000-000000000000", "input": 15 }
+      ],
+      "keyboard": { "deviceID": "046d:b359/255", "slot": 1 },
+      "mouse":    { "deviceID": "046d:b020/255", "slot": 1 }
+    },
+    {
+      "hostID": "6f1c1b0e-0000-4000-8000-000000000002",
+      "displays": [
+        { "displayID": "00000000-0000-0000-0000-000000000000", "input": 17 }
+      ],
+      "keyboard": { "deviceID": "046d:b359/255", "slot": 2 },
+      "mouse":    { "deviceID": "046d:b020/255", "slot": 2 }
+    }
+  ],
+  "knownDevices": [
+    { "id": "046d:b359/255", "name": "ERGO K860",   "kind": "keyboard", "transport": "ble" },
+    { "id": "046d:b020/255", "name": "MX Vertical", "kind": "mouse",    "transport": "ble" },
+    { "id": "046d:c52b/1", "name": "Logitech C52B device 1", "kind": "unknown", "transport": "unifying" },
+    { "id": "046d:c52b/2", "name": "Logitech C52B device 2", "kind": "unknown", "transport": "unifying" }
+  ],
+  "deviceAliases": {
+    "046d:b359/255": ["046d:c52b/1"],
+    "046d:b020/255": ["046d:c52b/2"]
+  }
+}

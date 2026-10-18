@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: Apache-2.0
+
+[package]
+name = "hostswitch-core"
+description = "Domain, config, planner and executor for hostswitch (no OS or UI dependencies)"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[features]
+# Fake backends for tests in this and downstream crates.
+testing = []
+
+[dependencies]
+async-trait.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+tokio.workspace = true
+uuid.workspace = true
+
+[dev-dependencies]
+# Integration tests (tests/) use the fakes behind the `testing` feature.
+hostswitch-core = { path = ".", features = ["testing"] }
+tokio = { workspace = true, features = ["test-util"] }
+
+[lints]
+workspace = true
